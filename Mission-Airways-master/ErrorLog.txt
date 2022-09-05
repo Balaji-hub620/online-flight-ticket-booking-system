@@ -1,0 +1,10 @@
+Message :Cannot open database "MissionAirways" requested by the login. The login failed.
+Login failed for user 'DESKTOP-7H3NA7T\HP'.<br/>
+StackTrace :   at BusinessAccessLayer.BAReg.RegistrationB(String Cus_Name, String Cus_Username, String Cus_Mail, String Cus_Pass, String Cus_DOB, String Cus_Address, Double Cus_Phone, String Cus_Gender, String Cus_SSNType, String Cus_SSN) in F:\Xpert's Zone\Mission-Airways-master\SourceCode\BusinessLL\BAReg.cs:line 23
+   at Airways.Registration.Register_Click(Object sender, EventArgs e) in F:\Xpert's Zone\Mission-Airways-master\SourceCode\Airways\MainPages\Registration.aspx.cs:line 35
+Date :
+31-08-2022 23:25:45Source :.Net SqlClient Data Provider<br/>
+
+
+-----------------------------------------------------------------------------
+
